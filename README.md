@@ -24,8 +24,8 @@
 **Location** – отображает координаты в виде кортежа (широта, долгота). Тип переменной – категориальная, номинативная.
 
 О файлах:
-EDA_Chicago_Crime.ipynb - файл с анализом
-chicago_heatmap.html - тепловая карта 
-chicago_map.html - карта с пинами мест преступлений
-chicago_map_types.html - карта с пинами мест преступлений + тип преступления
-https://www.kaggle.com/datasets/georgehanyfouad/crime-prediction-in-chicago-in-2022 - Датасет
+EDA_Chicago_Crime.ipynb - файл с анализом  
+chicago_heatmap.html - тепловая карта  
+chicago_map.html - карта с пинами мест преступлений  
+chicago_map_types.html - карта с пинами мест преступлений + тип преступления  
+https://www.kaggle.com/datasets/georgehanyfouad/crime-prediction-in-chicago-in-2022 - Датасет  
